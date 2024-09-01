@@ -1,0 +1,14 @@
+C:\Users\emmmo\.vscode\Random\MessengerServer\obj\Debug\net8.0\MessengerServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmmo\.vscode\Random\MessengerServer\obj\Debug\net8.0\MessengerServer.AssemblyInfoInputs.cache
+C:\Users\emmmo\.vscode\Random\MessengerServer\obj\Debug\net8.0\MessengerServer.AssemblyInfo.cs
+C:\Users\emmmo\.vscode\Random\MessengerServer\obj\Debug\net8.0\MessengerServer.csproj.CoreCompileInputs.cache
+C:\Users\emmmo\.vscode\Random\MessengerServer\bin\Debug\net8.0\MessengerServer.exe
+C:\Users\emmmo\.vscode\Random\MessengerServer\bin\Debug\net8.0\MessengerServer.deps.json
+C:\Users\emmmo\.vscode\Random\MessengerServer\bin\Debug\net8.0\MessengerServer.runtimeconfig.json
+C:\Users\emmmo\.vscode\Random\MessengerServer\bin\Debug\net8.0\MessengerServer.dll
+C:\Users\emmmo\.vscode\Random\MessengerServer\bin\Debug\net8.0\MessengerServer.pdb
+C:\Users\emmmo\.vscode\Random\MessengerServer\obj\Debug\net8.0\MessengerServer.dll
+C:\Users\emmmo\.vscode\Random\MessengerServer\obj\Debug\net8.0\refint\MessengerServer.dll
+C:\Users\emmmo\.vscode\Random\MessengerServer\obj\Debug\net8.0\MessengerServer.pdb
+C:\Users\emmmo\.vscode\Random\MessengerServer\obj\Debug\net8.0\MessengerServer.genruntimeconfig.cache
+C:\Users\emmmo\.vscode\Random\MessengerServer\obj\Debug\net8.0\ref\MessengerServer.dll
